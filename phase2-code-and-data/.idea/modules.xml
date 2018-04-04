@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/phase2-code-and-data.iml" filepath="$PROJECT_DIR$/.idea/phase2-code-and-data.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../phase3-code-and-data/.idea/phase3-code-and-data.iml" filepath="$PROJECT_DIR$/../phase3-code-and-data/.idea/phase3-code-and-data.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../phase3-code-and-data99/.idea/phase3-code-and-data99.iml" filepath="$PROJECT_DIR$/../phase3-code-and-data99/.idea/phase3-code-and-data99.iml" />
+      <module fileurl="file://$USER_HOME$/PycharmProjects/untitled1/.idea/untitled1.iml" filepath="$USER_HOME$/PycharmProjects/untitled1/.idea/untitled1.iml" />
+    </modules>
+  </component>
+</project>
